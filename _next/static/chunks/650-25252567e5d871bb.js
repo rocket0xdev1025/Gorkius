@@ -587,12 +587,12 @@
                       children: [
                         (0, n.jsx)(A.CopyToClipboard, {
                           onCopy: w,
-                          text: '0xcomingsoon',
+                          text: '0xB81131BAAE65B6a1d241e9c65BA9347A7d37bf61',
                           children: (0, n.jsx)('button', {
                             className: d().ca,
                             'data-tooltip-id': 'contract-copy',
                             children:
-                              '0xcomingsoon',
+                              '0xB81131BAAE65B6a1d241e9c65BA9347A7d37bf61',
                           }),
                         }),
                         (0, n.jsx)(o.u, {
