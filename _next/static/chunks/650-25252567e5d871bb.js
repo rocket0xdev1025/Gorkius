@@ -854,7 +854,7 @@
                     console.log(a);
                   },
                   ref: l,
-                  src: '/maxxing'.concat(t, '.JPG'),
+                  src: '/maxxing'.concat(t, '.jpg'),
                 },
                 t
               )
@@ -919,7 +919,7 @@
                       console.log(i);
                     },
                     ref: t,
-                    src: '/maxxing'.concat(a, '.JPG'),
+                    src: '/maxxing'.concat(a, '.jpg'),
                   },
                   a
                 )
